@@ -29,6 +29,15 @@ nav{
     margin-top: 100px;
 }
 
+.rome-photos {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+nav{
+    margin-top: 100px;
+}
+
+
 
 }
 
